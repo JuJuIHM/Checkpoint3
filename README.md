@@ -37,6 +37,12 @@ Les systèmes de stockage utilisés sont sr0, sda et sda1 (sda et sda1 créés p
 Ajoue d'un nouveau disque
 ![image](https://github.com/JuJuIHM/Checkpoint3/assets/137881830/0a47e020-a8d2-4f82-ab24-17f51b58f99b)
 
+![image](https://github.com/JuJuIHM/Checkpoint3/assets/137881830/5d0d5f2e-04de-4d9c-b904-93dd9f1a04ac)
+
+
+Réparation du RAID
+![image](https://github.com/JuJuIHM/Checkpoint3/assets/137881830/1e0fa373-6dbb-445d-99f6-bec2f3dbf0bd)
+
 
 # 2.3 Gestion de LVM
 
