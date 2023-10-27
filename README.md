@@ -50,6 +50,9 @@ Réparation du RAID
 
 # Partie 3 : SSH
 
+![image](https://github.com/JuJuIHM/Checkpoint3/assets/137881830/575a65aa-ea2e-4698-9f4a-e1b0a1ebbc8f)
+
+
 # 3.1 Configuration de SSH
 
 # 3.2 Authentification cryptographique
