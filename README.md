@@ -41,6 +41,7 @@ Ajoue d'un nouveau disque
 
 
 Réparation du RAID
+
 ![image](https://github.com/JuJuIHM/Checkpoint3/assets/137881830/1e0fa373-6dbb-445d-99f6-bec2f3dbf0bd)
 
 
