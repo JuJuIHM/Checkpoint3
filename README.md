@@ -21,6 +21,8 @@ le compte wilder devrait être intégré dans un groupe pour que l'on puisse con
 
 # 2.1 : Analyse des disques
 
+![image](https://github.com/JuJuIHM/Checkpoint3/assets/137881830/c4ac4680-2a7b-4e11-922d-681e89913325)
+
 ![image](https://github.com/JuJuIHM/Checkpoint3/assets/137881830/6e4340de-209d-431d-837b-a06aa1813ada)
 
 /dev/sr0 est le premier lecteur de CD-ROM SCSI du système.
@@ -31,6 +33,10 @@ Les systèmes de stockage utilisés sont sr0, sda et sda1 (sda et sda1 créés p
 
 
 # 2.2 Gestion du RAID
+
+Ajoue d'un nouveau disque
+![image](https://github.com/JuJuIHM/Checkpoint3/assets/137881830/0a47e020-a8d2-4f82-ab24-17f51b58f99b)
+
 
 # 2.3 Gestion de LVM
 
